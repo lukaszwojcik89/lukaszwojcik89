@@ -47,8 +47,8 @@ I am a novice programmer from Poland. I'm still learning and striving for self-d
 
 ## IDE
 <br><img align="left" alt="VisualStudioCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><img align="left" alt="SublimeText" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
-<img align="left" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=green" />
-<img align="left" alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=yellow" /><br>
+<img align="left" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=yellow" />
+<img align="left" alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=blue" /><br>
 
 ## Office
 
