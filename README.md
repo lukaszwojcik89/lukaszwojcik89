@@ -55,4 +55,4 @@ I am a novice programmer from Poland. I'm still learning and striving for self-d
 <img align="left" alt="Microsotf-Office-365" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /><br>
 
 
-https://github.com/lukaszwojcik89/lukaszwojcik89/blob/output/github-contribution-grid-snake.svg
+<!-- https://github.com/lukaszwojcik89/lukaszwojcik89/blob/output/github-contribution-grid-snake.svg -->
