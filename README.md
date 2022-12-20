@@ -31,6 +31,7 @@ I am a novice programmer from Poland. I'm still learning and striving for self-d
 
 
 
+
 ## Expertise
 <br><img align="left" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img align="left" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
