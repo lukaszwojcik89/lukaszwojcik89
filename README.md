@@ -25,7 +25,7 @@ I am a novice programmer from Poland. I'm still learning and striving for self-d
 [<img align="left" alt="pluralsight" src="https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white" />](https://app.pluralsight.com/profile/lwojcik/)
 [<img align="left" alt="DataCamp" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" />](https://app.datacamp.com/profile/lukaszwojcik89)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lucas_wojcik)
-[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](@gmail.com)
+
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/17121481/kooljay)
 [<img align="left" alt="codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" />](https://www.codewars.com/users/lukaszwojcik)<br>
 
@@ -57,4 +57,6 @@ I am a novice programmer from Poland. I'm still learning and striving for self-d
 <img align="left" alt="Microsotf-Office-365" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /><br>
 
 
-<!-- https://github.com/lukaszwojcik89/lukaszwojcik89/blob/output/github-contribution-grid-snake.svg -->
+<!-- https://github.com/lukaszwojcik89/lukaszwojcik89/blob/output/github-contribution-grid-snake.svg 
+[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](@gmail.com)
+-->
