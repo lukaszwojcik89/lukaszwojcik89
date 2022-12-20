@@ -22,6 +22,7 @@ I am a novice programmer from Poland. I'm still learning and striving for self-d
 
 ## Connect with me
 <br>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lukaszwojcik89/)
+[<img align="left" alt="pluralsight" src="https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white" />](https://app.pluralsight.com/profile/lwojcik/)
 [<img align="left" alt="DataCamp" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" />](https://app.datacamp.com/profile/lukaszwojcik89)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lucas_wojcik)
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](@gmail.com)
