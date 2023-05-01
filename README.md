@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img align="left" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img align="left" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 
 -->
-I am a novice programmer from Poland. I'm still learning and striving for self-development. Currently I am focusing on developing my JavaScript skills however strongly I am also interested in Python and Data Analisis. I am a graduate of the Python Developer bootcamp. 
+I am a programmer from Poland with experience in programming in Python and working with the Django and the Django Rest Framework for building RESTful APIs. During a course lasting over 3 months, I also learned the basics of JavaScript and React, which expanded my skills and opened up new opportunities. I am constantly developing my knowledge and seeking new challenges, especially in the field of data science.
 
 
 ## Connect with me
