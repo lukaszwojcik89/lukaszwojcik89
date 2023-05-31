@@ -56,8 +56,8 @@ I am a Polish programmer experienced in Python and Django, including building RE
 <img align="left" alt="Microsotf-Office-365" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lukaszwojcik89&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=lukaszwojcik89&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ -->
 <!-- https://github.com/lukaszwojcik89/lukaszwojcik89/blob/output/github-contribution-grid-snake.svg 
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](@gmail.com)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lucas_wojcik)
