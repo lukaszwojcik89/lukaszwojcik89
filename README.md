@@ -28,7 +28,6 @@ I am a Polish programmer experienced in Python and Django, including building RE
 [<img align="left" alt="codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" />](https://www.codewars.com/users/lukaszwojcik)
 <br>
 
-
 ## Expertise
 <br><img align="left" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img align="left" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
@@ -37,7 +36,6 @@ I am a Polish programmer experienced in Python and Django, including building RE
 <img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <!-- <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> -->
 <br>
-
 
 ## Operating Systems
 <br><img align="left" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -51,7 +49,6 @@ I am a Polish programmer experienced in Python and Django, including building RE
 <br>
 
 ## Office
-
 <br><img align="left" alt="Microsoft-Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img align="left" alt="Microsotf-Office-365" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 <br>
