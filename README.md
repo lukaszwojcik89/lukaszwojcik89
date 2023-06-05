@@ -53,6 +53,7 @@ I am a programmer from Poland experienced in Python and Django, including buildi
 <img align="left" alt="Microsotf-Office-365" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 <br>
 
+## My Streak!
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=lukaszwojcik89&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
