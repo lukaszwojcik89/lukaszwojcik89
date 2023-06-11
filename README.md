@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img align="left" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img align="left" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 
 -->
-I am a programmer from Poland experienced in Python and Django,including building RESTful APIs with the Django Rest Framework. I also have a basic understanding of JavaScript and React, acquired through a three-month course. I am passionate about continuous learning and interested in data science. Seeking new challenges to further develop my skills.
+I am a programmer from Poland experienced in Python and Django,including building RESTful APIs with the Django Rest Framework. I also have a basic understanding of JavaScript and React, acquired through a three-month course. I am passionate about continuous learning and interested in data science. Seeking new challenges to further develop my skills!
 
 
 ## Connect with me
