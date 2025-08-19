@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img align="left" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img align="left" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 
 -->
-I’m a Python developer from Poland with solid experience in Django, especially when it comes to building RESTful APIs with Django REST Framework. I’ve also got a working knowledge of JavaScript and React from a dedicated three-month course. I’m genuinely into continuous learning, currently exploring data science, and I’m looking for new challenges that will push my skills even further.
+I’m a Python developer with strong experience in Django, mainly focused on designing and building RESTful APIs. On a daily basis, I work with Django REST Framework to create reliable and scalable backend solutions. I’m also an AI enthusiast, fascinated by how artificial intelligence can be applied both in everyday life and in business. While my main stack is Python and Django, I have some basic knowledge of JavaScript and React from earlier projects and courses. I’m always eager to grow, explore new technologies, and take on challenges that push both my skills and the value I bring to the teams I work with.
 
 ## Connect with me
 <br>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lukaszwojcik89/)
